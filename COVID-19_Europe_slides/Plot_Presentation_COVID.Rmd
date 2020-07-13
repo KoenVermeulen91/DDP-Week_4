@@ -20,7 +20,7 @@ output: ioslides_presentation
 
 ## The code
 >- The code behind the application can be found on GitHub
->- https://github.com/KoenVermeulen91/DDP-Week4
+>- https://github.com/KoenVermeulen91/DDP-Week_4
 >- Feel free to copy and improve
 >- The repository contains a ReadMe file as well
 >- The used R-packages were kept down to a minimum

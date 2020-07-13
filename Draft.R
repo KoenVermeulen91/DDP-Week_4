@@ -56,6 +56,8 @@ rsconnect::setAccountInfo(name='koenvermeulen91',
                           secret='t3MuDGoJuXLx8bUkP1NOkr2sVndBGP8dhM4tOiS+')
 
 rsconnect::deployApp("COVID-19_Europe_app")
+Y
 
+https://rpubs.com/kv-2401/638650
 
 
