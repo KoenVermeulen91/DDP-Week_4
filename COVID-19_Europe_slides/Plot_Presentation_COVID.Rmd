@@ -1,0 +1,33 @@
+---
+title: "Shiny application & Presentation"
+subtitle: "Comparing confirmed COVID-19 cases across European countries"
+author: "Koen Vermeulen"
+date: "13-7-2020"
+output: ioslides_presentation
+---
+
+## COVID-19 hit the world in 2019
+>- COVID-19 hit Europe in the beginning of 2020
+>- European countries have their own policy dealing with COVID-19
+>- This Shiny-application can be used to compare the cases for all European countries
+>- The application can be found here: https://koenvermeulen91.shinyapps.io/covid-19_europe_app/?_ga=2.246795396.104413208.1594614436-1785348672.1594614436
+
+## The data
+>- The data of the app is collected each time it gets started
+>- The data comes from https://opendata.ecdc.europa.eu/
+>- The datasets published on that website contain the global cases and deaths
+>- This application focusses on confirmed cases and European countries
+
+## The code
+>- The code behind the application can be found on GitHub
+>- https://github.com/KoenVermeulen91/DDP-Week4
+>- Feel free to copy and improve
+>- The repository contains a ReadMe file as well
+>- The used R-packages were kept down to a minimum
+
+## The next steps
+
+>- To improve the application, certain further developments can be done
+>- Deaths can be added as a plot
+>- The app can compare all countries in the world
+>- This application contains absolute numbers, when the population of the countries is added, the relative spreading can be monitored too
